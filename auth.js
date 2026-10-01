@@ -1,1 +1,1 @@
-function login(user,pass) { console.log('Log main'); return user !== null,}
+function login(user, pass) {console.log('Log feature'); return pass.length > 8; }
