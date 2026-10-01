@@ -1,1 +1,1 @@
-function login(user, pass) {return true;}
+function login(user,pass) { console.log('Log main'); return user !== null,}
